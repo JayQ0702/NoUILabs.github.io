@@ -1,0 +1,1 @@
+Open AI Weight Model now is available on bedrock
